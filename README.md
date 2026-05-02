@@ -60,7 +60,7 @@ Matplotlib
 Seaborn
 
 🚀 How to Run
-git clone https://github.com/your-username/titanic-eda-project.git
+git clone https://github.com/kamranahmed8277-wq/titanic-eda-project-AIML-Intenship-Week2.git
 cd titanic-eda-project
 python titanic_eda_project.py
 
