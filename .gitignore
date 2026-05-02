@@ -10,7 +10,7 @@ __pycache__/
 *.pyc
 
 # Data files (optional if large)
-*.csv
+*.csvgit status
 
 # OS files
 .DS_Store
